@@ -18,7 +18,7 @@ Players of this game will need the [game
 board](https://github.com/jtyr/game-spiral_of_fun/blob/master/SpiralOfFun-board.svg)
 and the [sheet of
 cards](https://github.com/jtyr/game-spiral_of_fun/blob/master/SpiralOfFun-cards.svg)
-(it must be cut inro individual cards). You can print them both from the
+(it must be cut into individual cards). You can print them both from the
 released [PDF file](https://github.com/jtyr/game-spiral_of_fun/releases) or
 individually from the SVG files using [Inkscape](https://inkscape.org/). Players
 will also need one dice and one piece for each player.
